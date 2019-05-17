@@ -1,0 +1,62 @@
+﻿  Source.cpp
+e:\c++\line98\source.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\c++\line98\source.cpp(49): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\c++\line98\source.cpp(304): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\c++\line98\source.cpp(306): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\c++\line98\source.cpp(308): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\c++\line98\source.cpp(310): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\c++\line98\source.cpp(312): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\c++\line98\source.cpp(314): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\c++\line98\source.cpp(316): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\c++\line98\source.cpp(318): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\c++\line98\source.cpp(320): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\c++\line98\source.cpp(322): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\c++\line98\source.cpp(324): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\c++\line98\source.cpp(397): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\c++\line98\source.cpp(402): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\c++\line98\source.cpp(407): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\c++\line98\source.cpp(412): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\c++\line98\source.cpp(417): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\c++\line98\source.cpp(421): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\c++\line98\source.cpp(426): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\c++\line98\source.cpp(431): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\c++\line98\source.cpp(436): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\c++\line98\source.cpp(441): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\c++\line98\source.cpp(450): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\c++\line98\source.cpp(452): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\c++\line98\source.cpp(454): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\c++\line98\source.cpp(456): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\c++\line98\source.cpp(285): warning C4101: 'bt': unreferenced local variable
+  Line98.vcxproj -> E:\C++\Line98\Debug\Line98.exe
